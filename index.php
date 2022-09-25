@@ -13,11 +13,17 @@ $PROJECT_IMG_PATH = 'http://localhost/np/locumme_data/images/';
   <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
   <script src="js/html.js"></script>
 <style>
+h3 { color:#d0254e;padding-bottom:15px;border-bottom:1px solid #d0254e; }
+.bg-box { background-color:#c1e2ff;border-color:#024279; }
+.subheading { margin-top:15px; margin-bottom:15px; }
 a { color: #024279; }
 pre { background:none;border:0px; }
 body { font-size:12px;padding:15px; }
 .hide-block { display:none; }
 .output-bg { background-color:#fefefe; }
+.mtop5p { margin-top:5px; }
+.mtop15p { margin-top:15px; }
+.mtop25p { margin-top:25px; }
 .mbot5p { margin-bottom:5px; }
 img { width:300px;height:100%;padding:5px; }
 .pad5p { padding:5px; }

@@ -1,4 +1,4 @@
-<h3>Sources of Indian Constitution</h3><br/>
+<h3>1. Sources of Indian Constitution</h3><br/>
 The sources of Indian Constitution include the imaginative aspirations of the nationalist leaders, the 
 actual working of the Government of India Act, 1935, and the experience gained from the actual working 
 of some of the Constitutions of important countries of the world. Moreover, its sources include not only 
@@ -42,97 +42,30 @@ The sources of the Indian Constitution can thus be divided into the following tw
 
 <li>
 <div class="subheading"><strong><i>Constituent Assembly Debates:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Reports of Committees of the Constituent Assembly:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Nehru Report:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Lahore Session of the Indian National Congress:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Objectives Resolution:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Government of India Act, 1935:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Impact of various Constitutions:</i></strong></div>
-<div></div>
-</li>
-
-</ul>
-</li>
-<li><div class="subheading"><strong>Development Sources</strong></div>
-<ul>
-
-<li>
-<div class="subheading"><strong><i>Amendments of the Constitution:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Judicial Decisions:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Parliamentary Statutes:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Commentaries of Constitutional Experts:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Rules, Regulatios, Ordinances, etc:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Constitutional Practices:</i></strong></div>
-<div></div>
-</li>
-
-</ol>
-
-<!-- -->
-<ol>
-<li><strong>Seminal Sources</strong></li>
-
-<div class="subheading"><strong><i>Constituent Assembly Debates:</i></strong></div>
+<div>
 Constituent Assembly was constituted under the Cabinet Mission plan to frame the Indian Constitution. 
 Its members included distinguished lawyers, intellectuals and patriots who took two years, eleven months 
 and eighteen days to prepare the constitution. During the course of this period, debates on all the aspects 
 of the Constitution were held in a free and fair manner. These debates produced an intelligent opinion in 
 the light of which every word of the Constitution was screened carefully and intelligently.
+</div>
+</li>
 
+<li>
 <div class="subheading"><strong><i>Reports of Committees of the Constituent Assembly:</i></strong></div>
+<div>
 The Constituent Assembly appointed various types of committees to make reports on different aspects. 
 Some of the most important committees  included Union Powers Committees, Union Constitution Committee,
 Provincial Constitution Committee, etc.  Advisory Committed on the rights of citizens, minorities and tribal 
 and excluded areas and hoc Committee regarding the Supreme Court Committee on financial relations between the
  Union and States. The reports of these committees were thoroughly discussed in the Drafting Committee. It 
  was on the basis of the reports made by such committees that the draft of the Constitution was prepared.
+</div>
+</li>
 
+<li>
 <div class="subheading"><strong><i>Nehru Report:</i></strong></div>
-
+<div>
 The british Government had announced the formation of the Simon Commision for making a report on the working
  of the Government of India Act, 1919 and suggest constitutional measures required for the efficient 
  administration of Indian. The Congress decided to boycott this Commision because no Indian was taken on it. 
@@ -147,28 +80,39 @@ The british Government had announced the formation of the Simon Commision for ma
 <li>guarantee of Fundamental Right;</li>
 <li>establishment of Supreme Court as the final court of appeal.</li>
  </ul>
-<div class="subheading"><strong><i>Lahore Session of the Congress:</i></strong></div>
+</div>
+</li>
 
-The Congress at its Lahore session held in 1929 resolved to make India a Republic.
+<li>
+<div class="subheading"><strong><i>Lahore Session of the Indian National Congress:</i></strong></div>
+<div>The Congress at its Lahore session held in 1929 resolved to make India a Republic.</div>
+</li>
 
+<li>
 <div class="subheading"><strong><i>Objectives Resolution:</i></strong></div>
-
+<div>
 Jawharlal Lal Nehru moved in the Constituent Assembly the Objectives Resolution embodying the aspirations 
 of nationalist India. The Objectives Resolution clearly spelled out making India a sovereign republic where 
 the ultimate supreme power should be vested with the people. It stated that the people would get social, 
 economic and political justice, liberties of all types and equality. Upliftment of the backward people and 
 areas would be ensured and the structure of the country would be federal.
+</div>
+</li>
 
-<div class="subheading"><strong><i>Government of India Act 1935:</i></strong></div>
-
- At the time the Constitution for free India was being framed, India was governed by the Government of India 
+<li>
+<div class="subheading"><strong><i>Government of India Act, 1935:</i></strong></div>
+<div>
+At the time the Constitution for free India was being framed, India was governed by the Government of India 
  Act, 1935. The fathers of the Indian Constitution drew heavily on the experience and the provisions of this 
  Act. According to Jennings - "The Constitution derives directly from the Government of India Act, 1935 from 
  which, in fact, many of its provision are copied textually."
+</div>
+</li>
 
- <div class="subheading"><strong><i>Impact of Various Constitutions:</i></strong></div>
- 
- The founding fathers of the Indian Constitution were wise enough to borrow from the experience gained in 
+<li>
+<div class="subheading"><strong><i>Impact of various Constitutions:</i></strong></div>
+<div>
+The founding fathers of the Indian Constitution were wise enough to borrow from the experience gained in 
  the working of various other Constitutions. It is on this account that the Constitution of India is 
  regarded as a bag of borrowing from the various working Constitutions 
 
@@ -233,6 +177,67 @@ related to Emergency.
 
 </li>
 </ul>
+</div>
+</li>
+
+</ul>
+</li>
+<li><div class="subheading"><strong>Development Sources</strong></div>
+<ul>
+
+<li>
+<div class="subheading"><strong><i>Amendments of the Constitution:</i></strong></div>
+<div></div>
+</li>
+
+<li>
+<div class="subheading"><strong><i>Judicial Decisions:</i></strong></div>
+<div></div>
+</li>
+
+<li>
+<div class="subheading"><strong><i>Parliamentary Statutes:</i></strong></div>
+<div></div>
+</li>
+
+<li>
+<div class="subheading"><strong><i>Commentaries of Constitutional Experts:</i></strong></div>
+<div></div>
+</li>
+
+<li>
+<div class="subheading"><strong><i>Rules, Regulatios, Ordinances, etc:</i></strong></div>
+<div></div>
+</li>
+
+<li>
+<div class="subheading"><strong><i>Constitutional Practices:</i></strong></div>
+<div></div>
+</li>
+
+</ol>
+
+<!-- -->
+<ol>
+<li><strong>Seminal Sources</strong></li>
+
+
+
+<div class="subheading"><strong><i>Lahore Session of the Congress:</i></strong></div>
+
+
+
+<div class="subheading"><strong><i>Objectives Resolution:</i></strong></div>
+
+
+
+<div class="subheading"><strong><i>Government of India Act 1935:</i></strong></div>
+
+ 
+
+ <div class="subheading"><strong><i>Impact of Various Constitutions:</i></strong></div>
+ 
+ 
 <!-- -->
 <br>
 

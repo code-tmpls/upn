@@ -34,11 +34,14 @@ img { width:300px;height:100%;padding:5px; }
 <script type="text/javascript">
 let technologies = [{id:"",
 					 title:"INDIAN POLITY",
-					 subject:[{ id:"indian-polity-01",
-								title:"INDIAN POLITY - 01",
+					 subject:[{ id:"indian-constitution",
+								title:"Indian Constitution",
 								syllabus:[{id:"01-background",title:"Background"},
-								{id:"02-chapter",title:"Chapter Name"},
-										 {id:"html_02_dom",title:"HTML DOM"}] },
+										{id:"02-framing",title:"Framing"},
+										{id:"03-philosophy",title:"Philosophy"},
+										{id:"04-nature-and-features",title:"Nature and Features"},
+										{id:"05-preamble",title:"Preamble"},
+										{id:"06-at-a-glance",title:"At a Glance"}] },
 							   { id:"indian-polity-02",
 								 title:"INDIAN POLITY - 02",
 								 syllabus:[{id:"01-judiciary",title:"Judiciary"},] },
@@ -271,8 +274,8 @@ let technologies = [{id:"",
   <div class="row">
     <div id="leftSyllabusMenu" class="col-sm-2"></div><!--/.col-sm-2 -->
     <div class="col-sm-10">
-		<div id="qaLeftColumn" class="col-sm-6"></div><!--/.col-sm-6 -->
-		<div id="qaRightColumn" class="col-sm-6"></div><!--/.col-sm-6 -->
+		<div id="qaLeftColumn" class="col-sm-12"></div><!--/.col-sm-6 -->
+		<div id="qaRightColumn" class="col-sm-12"></div><!--/.col-sm-6 -->
       <!-- -->
 	  <!-- -->
     </div><!--/.col-sm-10 -->

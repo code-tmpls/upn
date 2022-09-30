@@ -37,11 +37,12 @@ let technologies = [{id:"",
 					 subject:[{ id:"indian-constitution",
 								title:"Indian Constitution",
 								syllabus:[{id:"01-background",title:"Background"},
-										{id:"02-framing",title:"Framing"},
-										{id:"03-philosophy",title:"Philosophy"},
-										{id:"04-nature-and-features",title:"Nature and Features"},
-										{id:"05-preamble",title:"Preamble"},
-										{id:"06-at-a-glance",title:"At a Glance"}] },
+										{id:"02-sources",title:"Sources"},
+										{id:"03-framing",title:"Framing"},
+										{id:"04-philosophy",title:"Philosophy"},
+										{id:"05-nature-and-features",title:"Nature and Features"},
+										{id:"06-preamble",title:"Preamble"},
+										{id:"07-at-a-glance",title:"At a Glance"}] },
 							   { id:"indian-polity-02",
 								 title:"INDIAN POLITY - 02",
 								 syllabus:[{id:"01-judiciary",title:"Judiciary"},] },
@@ -273,12 +274,15 @@ let technologies = [{id:"",
   </div>
   <div class="row">
     <div id="leftSyllabusMenu" class="col-sm-2"></div><!--/.col-sm-2 -->
-    <div class="col-sm-10">
+    <div class="col-sm-7">
 		<div id="qaLeftColumn" class="col-sm-12"></div><!--/.col-sm-6 -->
 		<div id="qaRightColumn" class="col-sm-12"></div><!--/.col-sm-6 -->
       <!-- -->
 	  <!-- -->
-    </div><!--/.col-sm-10 -->
+    </div><!--/.col-sm-8 -->
+	<div class="col-sm-5">
+
+	</div>
   </div><!--/.row -->
 </div><!--/.container-fluid -->
 

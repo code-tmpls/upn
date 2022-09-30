@@ -10,9 +10,14 @@ also been raised. But, inspite of all these changes, the "basic structure" of co
 intact.<br>
 
 
-<h3>Development of the Indian Constitution</h3><br>
+<h3>1. Development of the Indian Constitution</h3><br>
 British rule in India ended on 15th August 1947 and India emerged as an independent and sovereign 
-republic. Certain features of Indian Polity or Constitution can be understood better.<br>
+republic. Certain features of Indian Polity or Constitution can be understood better with a brief 
+review of the constitutional set up in the preceding periods. As modern political 
+institutions originated and developed in India mainly during the British rule, the origin and 
+growth of the Indian Constitution has its roots in the British period of Indian history. 
+The British came to India in the 17th century as traders. From 1773 onwards, various Acts were 
+passed by the British Government for the governance of India. <br/>
 <div class="list-group">
 <div class="list-group-item bg-box mtop15p">
 <strong>Acts that faciliated constitution development during the british rule</strong> 
@@ -35,333 +40,180 @@ republic. Certain features of Indian Polity or Constitution can be understood be
 </ul>
 </div>
 </div>
-with a brief review of the constitutional set up in the preceding periods. As modern political 
-institutions originated and developed in India mainly during the British rule, the origin and 
-growth of the Indian Constitution has its roots in the British period of Indian history. 
-The British came to India in the 17th century as traders. From 1773 onwards, various Acts were 
-passed by the British Government for the governance of India. 
 
-<br/>
-<br/>
-
-<h3>Sources of Indian Constitution</h3><br/>
-The sources of Indian Constitution include the imaginative aspirations of the nationalist leaders, the 
-actual working of the Government of India Act, 1935, and the experience gained from the actual working 
-of some of the Constitutions of important countries of the world. Moreover, its sources include not only 
-the sources upon which the founding fathers of our Constitution drew but also the developmental sources 
-such as the judicial decisions, constitutional amendments, constitutional practices and so on.<br/><br/>
-The sources of the Indian Constitution can thus be divided into the following two categories:
-<br/>
-
-<div class="list-group">
-<div class="list-group-item bg-box mtop15p">
-
-<ol>
-    <li><b>Seminal Sources</b>
-        <ul>
-            <li><i>Constituent Assembly Debates</i></li>
-            <li><i>Reports of Committees of the Constituent Assembly</i></li>
-            <li><i>Nehru Report</i></li>
-            <li><i>Lahore Session of the Indian National Congress</i></li>
-            <li><i>Objectives Resolution</i></li>
-            <li><i>Government of India Act, 1935</i></li>
-            <li><i>Impact of various Constitutions</i></li>
-        </ul>
-    </li>
-    <li><b>Development Sources</b>
-        <ul>
-            <li><i>Amendments of the Constitution</i></li>
-            <li><i>Judicial Decisions</i></li>
-            <li><i>Parliamentary Statutes</i></li>
-            <li><i>Commentaries of Constitutional Experts</i></li>
-            <li><i>Rules, Regulatios, Ordinances, etc</i></li>
-            <li><i>Constitutional Practices</i></li>
-        </ul>
-    </li>
-</ol>
-
-</div>
-</div>
-<ol>
-<li><div class="subheading"><strong>Seminal Sources</strong></div>
-<ul>
-
-<li>
-<div class="subheading"><strong><i>Constituent Assembly Debates:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Reports of Committees of the Constituent Assembly:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Nehru Report:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Lahore Session of the Indian National Congress:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Objectives Resolution:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Government of India Act, 1935:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Impact of various Constitutions:</i></strong></div>
-<div></div>
-</li>
-
-</ul>
-</li>
-<li><div class="subheading"><strong>Development Sources</strong></div>
-<ul>
-
-<li>
-<div class="subheading"><strong><i>Amendments of the Constitution:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Judicial Decisions:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Parliamentary Statutes:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Commentaries of Constitutional Experts:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Rules, Regulatios, Ordinances, etc:</i></strong></div>
-<div></div>
-</li>
-
-<li>
-<div class="subheading"><strong><i>Constitutional Practices:</i></strong></div>
-<div></div>
-</li>
-
-</ol>
-
-<!-- -->
-<ol>
-<li><strong>Seminal Sources</strong></li>
-
-<div class="subheading"><strong><i>Constituent Assembly Debates:</i></strong></div>
-Constituent Assembly was constituted under the Cabinet Mission plan to frame the Indian Constitution. 
-Its members included distinguished lawyers, intellectuals and patriots who took two years, eleven months 
-and eighteen days to prepare the constitution. During the course of this period, debates on all the aspects 
-of the Constitution were held in a free and fair manner. These debates produced an intelligent opinion in 
-the light of which every word of the Constitution was screened carefully and intelligently.
-
-<div class="subheading"><strong><i>Reports of Committees of the Constituent Assembly:</i></strong></div>
-The Constituent Assembly appointed various types of committees to make reports on different aspects. 
-Some of the most important committees  included Union Powers Committees, Union Constitution Committee,
-Provincial Constitution Committee, etc.  Advisory Committed on the rights of citizens, minorities and tribal 
-and excluded areas and hoc Committee regarding the Supreme Court Committee on financial relations between the
- Union and States. The reports of these committees were thoroughly discussed in the Drafting Committee. It 
- was on the basis of the reports made by such committees that the draft of the Constitution was prepared.
-
-<div class="subheading"><strong><i>Nehru Report:</i></strong></div>
-
-The british Government had announced the formation of the Simon Commision for making a report on the working
- of the Government of India Act, 1919 and suggest constitutional measures required for the efficient 
- administration of Indian. The Congress decided to boycott this Commision because no Indian was taken on it. 
- Instead it announced the formation of a committee under the leadership of Motilal Nehru  to make 
- recommendations about the desired constitutional set up for India. The Committee made certain recommendations
-  which are known as the Nehru Report. The main Clauses of this Report were : 
- <ul>
-<li>grant of Empire;</li>
-<li>Creation of a federal structure for India </li> 
-<li>bicameralism at the Centre;</li>   
-<li>Parliamentary and responsible Government in Provinces;</li>  
-<li>guarantee of Fundamental Right;</li>
-<li>establishment of Supreme Court as the final court of appeal.</li>
- </ul>
-<div class="subheading"><strong><i>Lahore Session of the Congress:</i></strong></div>
-
-The Congress at its Lahore session held in 1929 resolved to make India a Republic.
-
-<div class="subheading"><strong><i>Objectives Resolution:</i></strong></div>
-
-Jawharlal Lal Nehru moved in the Constituent Assembly the Objectives Resolution embodying the aspirations 
-of nationalist India. The Objectives Resolution clearly spelled out making India a sovereign republic where 
-the ultimate supreme power should be vested with the people. It stated that the people would get social, 
-economic and political justice, liberties of all types and equality. Upliftment of the backward people and 
-areas would be ensured and the structure of the country would be federal.
-
-<div class="subheading"><strong><i>Government of India Act 1935:</i></strong></div>
-
- At the time the Constitution for free India was being framed, India was governed by the Government of India 
- Act, 1935. The fathers of the Indian Constitution drew heavily on the experience and the provisions of this 
- Act. According to Jennings - "The Constitution derives directly from the Government of India Act, 1935 from 
- which, in fact, many of its provision are copied textually."
-
- <div class="subheading"><strong><i>Impact of Various Constitutions:</i></strong></div>
- 
- The founding fathers of the Indian Constitution were wise enough to borrow from the experience gained in 
- the working of various other Constitutions. It is on this account that the Constitution of India is 
- regarded as a bag of borrowing from the various working Constitutions 
-
-<ul>
-    <li>
-    <div class="subheading"><strong><i>British Constitution:</i></strong></div>
-
-The British Constitution (Mother of all Constitution) had its impact in the following respects; 
-<ul>
-    <li>Constitutional head of State</li>
-    <li>Lower House of Parliament is more powerfulthan the upper House</li>
-    <li>Responsiblity of council of Ministers towards Parliament</li>
-    <li>Parliamentary system of Government</li>
-    <li>Prevalence of Rule of Law</li>
-
-</ul>
-
-    </li>
-    <li>
-    <div class="subheading"><strong><i>US Constitution:</i></strong></div>
-The constitution of the United States had its impact in the following respects:    
+<div>
+<h3>2. Main Provisions of Important Acts passed in British India</h3>
+    <div class="subheading"><strong>Regulating Act, 1773</strong></div>
     <ul>
-        <li>Preamble of the constitution.</li>
-        <li>Provision of Fundamental Rights.</li>
-        <li>Functions of the Vice-President.</li>
-        <li>Amendment of the Constitution.</li>
-        <li>Nature and functions of the Supreme Court.</li>
-        <li>Independence of Judiciary.</li>
+        <li>First attempt by the British Parliament to regulate the affairs of the East Indian Company;</li>
+        <li>Centralised the administration of Company's territories in Inida;</li>
+        <li>Governer of Bengal was designated as the Governer General of Bengal and Council of 4 
+        members was appointed for Bengal;</li>
+        <li>Bombay and Madras Presidencies were subordinated to Bengal Presidency;</li>
+        <li>Supreme Court was set up at Calcutta;</li>
+        <li>Company's servants were forbidden from accepting bribes or doing private trade.</li>
+    </ul>
+   
+    <div class="subheading"><strong>Amending Act, 1781:</strong></div>
+    It settled the question of jurisdiction of the Supreme Court.
+
+    <div class="subheading"><strong>Pitt's India Act, 1784:</strong></div>
+    <ul>
+        <li>It was the first effective substitution of Parliamentary Control over East India Company 
+            as it transferred the Indian affairs of the Company into the hands of the British Government;</li> 
+        <li>Abolished dual system of governance.</li> 
+        <li>Board of Control consisting of 6 Parliamentary Commissioners was constituted to control civil, 
+            military and revenue affairs of India;</li> 
+        <li>Court of Directors had to comply with the orders and directions of the Board;</li> 
+        <li>Strength of Governor-General's Council reduced to 3;</li>
+        <li>Control of Governor-General-in-Council on Bombay and Madras Presidency was enlarged and made 
+            more effective.</li>
+    </ul>
+
+    <div class="subheading"><strong>Act of 1786:</strong></div>
+    Governor-General became the Commanderin-Chief of Indian Forces.
+
+    <div class="subheading"><strong>Charter Act, 1793:</strong></div>
+    <ul>
+        <li>East India Company's monopoly over trade was extended for 20 more years</li> 
+        <li>Expenses and salaries of the Board of Control to be charged on Indian Revenue;</li> 
+        <li>Governor-General could over-ride his Council</li> 
+    </ul>
+
+    <div class="subheading"><strong>Charter Act, 1813:</strong></div>
+    <ul>
+        <li>East India Company was deprived of its trade monopoly in India except in tea and opium 
+            trade with China;</li> 
+        <li>All Englishmen could trade with India subject to certain restrictions;</li> 
+        <li>Rules and procedures were made for the use of Indian revenue</li>
+        <li>A sum of Rs. 1 Lakh was earnmarked annually for education.</li>
+    </ul>
+
+    <div class="subheading"><strong>Charter Act, 1833:</strong></div>
+    <ul>
+        <li>Governer-General of Bengal became the Governer-General to India;</li>
+        <li>Company was asked to close its business at the earliest;</li>
+        <li>It put an end on Company's trade monopoly even in tea and opium with China;</li>
+        <li>Government of Madras and Bombay was deprived of legislative powers;</li>
+        <li>A fourth member was added to the council of Governer-General;</li>
+        <li>Government service was thrown open to the people of India;</li>
+        <li>All laws made by the Governer General-in-Council, henceforth came to be known as Acts and 
+            not regulations;</li>
+        <li>Provision was made for appointment of Law Commission for codification of laws;</li> and
+        <li> Slavery was abolished.</li>
+    </ul>
+
+    <div class="subheading"><strong>Charter Act, 1853:</strong></div>
+    <ul>
+        <li>For the first time a separate legislative machinery consisting of 12-member Legislative 
+            Council was created;</li> 
+        <li>Law member was made a full member of the Executive council of the Governer-General. Six 
+            additional members were added for legislative purposes;</li>
+        <li>Recruitment of Civil Services was based on open annual competitive examination.</li>
+    </ul>
+
+    <div class="subheading"><strong>Government of India Act, 1858:</strong></div>
+    <ul>
+        <li>Rule of company in India ended and that of the Crown began;</li>
+        <li>System of double government ended as both the Court of Directors as well as the Board of 
+            Control was abolished;</li>
+        <li>Secretary of State for India was appointed. He was assisted by a 15- member Council. He was 
+            to exercise the powers of the crown;</li>
+        <li>Secretary of State was to be a member of the British Cabinet;</li>
+        <li>Secretary of State governed India through the Governer General;</li>
+        <li>Governer-General was to be called the viceroy and was the direct representative of the crown 
+            in India;</li>
+        <li>A unitary and highly-centralised administrative structure was created.</li>
+    </ul>
+    <div class="subheading"><strong>Indian Councils Act, 1861:</strong></div>
+    <ul>
+        <li>Policy of Association of Indians in legislation started;</li> 
+        <li>Portfolio system was introduced;</li>
+        <li>For legislation; Executive Council of Viceroy was enlarged by 6 to 12 members composed of 
+            half non-official members. Thus foundation of Indian Legislature was laid down;</li>
+        <li>Legislative powers of the Presidency Governments, abolished in 1833, were restored;</li> 
+        <li>Viceroy could issue ordinances in case of emergency.</li>
+    </ul>
+
+    <div class="subheading"><strong>Indian Councils Act, 1892:</strong></div>
+    It was the beginning of representative system in India.
+    <ul>
+        <li>Though the majority of official members was retained, the non-official members of the Indian 
+            Legislative Council were henceforth to be nominated by the Bengal Chamber of Commerce and the 
+            Provincial Legislative Councils</li> 
+        <li>Non-official members of the provincial council were to be nomitated by certain local bodies 
+            such as universities, district boards, municipalities, etc.;</li>
+        <li>Councils were given the power to discuss budget and to question the Executive.</li>
+    </ul>
+
+    <div class="subheading"><strong>Indian Councils Act, 1909:</strong></div>
+    Also known as the Morley-Minto Reforms
+    <ul>
+        <li>Introduced, for the first time, an element of elections to the Legislative Councils;</li>
+        <li>In Provincial Legislative Councils, non-official members wewre to be in majority;</li>
+        <li>This Act introduced the system of separte electorates.</li>
+    </ul>
+
+    <div class="subheading"><strong>Government of India Act, 1919:</strong></div>
+    Popularly known as Montague-Chelmsford Reforms
+    <ul>
+        <li>The idea of "Responsible Government" was stressed;</li> 
+        <li>Office of the High Commissioner of India was created in London;</li>
+        <li>Indian Legislature became "bicameral" for the first time;</li>
+        <li>Communal representation was extended to Sikhs;</li>
+        <li>Secretary of State for India was now to be paid from British revenue;</li>
+        <li>Diarchy was introduced in provinces by dividing subjects of administration between official 
+            members and elected members.</li>
+    </ul>
+    <div class="list-group">
+    <div class="list-group-item bg-box mtop15p">
+        <div class="subheading"><strong>WHAT DO YOU UNDERSTAND BY THE TERMS <b><i>'DIARCHY'</i></b> AND 
+            <b><i>'DEVOLUTION RULES'</i></b>?</strong>
+        </div>
+        <i>In Indian administration, these terms were used for the first time in the Government of India 
+            Act, 1919 (Montague-Chelmsford Reforms)<br/>
+            <div class="subheading"><strong>Diarchy:</strong></div> 
+            It meant Dual Government The Provincial subjects of administration were to be divided into 
+            two categories -- "Transferred" and "Reserved". 
+            The transferred subjects were to be administrated by the Governor with the aid of Ministers 
+            responsible to the Legislative Council. The reserved subjects were to be administered by 
+            the Governor and his Executive Council without any responsibility towards the Legislature.
+            <div class="subheading"><strong>Devolution Rules:</strong></div> 
+            Through these Rules, subjects of administration were divided into two categories -- 
+            "Central" and "Provincial". Subjects of all-India importance (like Railways, Finance) were 
+            brought under the category of Central, while matters relating to the administration of the 
+            provinces were classified as provincial.</i>
+    </div>
+    </div>
+
+    <div class="subheading"><strong>Government of India Act, 1935:</strong></div>
+    <ul>
+        <li>It provided for the establishment of an All-India Federation consisting of the British 
+            provinces and the princely states. The joining of princely states was voluntary. The 
+            Federation never came into being.</li>
+        <li>Diarchy was introduced at the Centre. Diarchy in provinces was replaced by 'Provincial Autonomy' 
+            and they were granted separate legal identity. Responsible governments were set up in the states 
+            under Prime (Chief) Ministers elected by Legislatures;</li>
+        <li>Governer was given special responsibilities in several matters.</li>
+        <li>Three-fold division of powers was doneFederal, Provincial and Concurrent Lists. Residuary powers 
+            were to be with the Governor-General;</li> 
+        <li>The India Council of Secretary of State for India was abolished;</li> 
+        <li>Principle of separate electorate was extended further to include Anglo-Indians, Indian Christians 
+            and Europeans also;</li>
+        <li>A Federal Court was to be constituted with a Chief Justice and 10 other Judges. This was set up 
+            in 1937.</li>
 
     </ul>
 
-    </li>
-<li>
-    <div class="subheading"><strong><i>Australian Constitution:</i></strong></div>
+    <div class="subheading"><strong>Indian Independence Act, 1947:</strong></div>
+    This Act did not lay down any provision for the administration of India but merely stated that from 
+    the "appointed date (Aug. 15, 1947), in place of India as defined in the Government of India Act, 1935, 
+    there would be two independent Dominions to be known as "India" and Pakistan", and the Constituent 
+    Assembly of each Dominion would have unlimited powers to frame and adopt any Constitution, and to repeal 
+    any Act of the British Parliament."
+</div>
 
-Australian Constitution gave us a long list of concurrent powers and the 
-procedure for solving deadlock over concurrent subjects between the Centre and the States    
-</li>
-    <li>
-    <div class="subheading"><strong><i>Irish Constitution:</i></strong></div>
-The Irish Constitution gave us the Directive Principles of State Policy and the method of 
-nominating members of the Rajya Sabha. 
-    
-</li>
-    <li>
-    <div class="subheading"><strong><i>Weimer Constitution of Germany:</i></strong></div>
 
-    : The
-Weimer Constitution of Germany had its impact upon the powers of the President as well as on provisions 
-related to Emergency. 
-</li>
-    <li>
-    <div class="subheading"><strong><i>Canadian Constitution:</i></strong></div>
-      Indian Constitution borrowed the provisions of a strong nation; the name of Union of India; and 
-      vesting residuary powers with the Union; from Canada
-    </li>
-<li>
-<div class="subheading"><strong><i>South African Constitution:</i></strong></div>
- The procedure of amendment with a two-thirds majority in Parliament and the election of members of the 
- Rajya Sabha on the basis of proportional representation by the State Legislatures have been borrowed 
- from the Constitution of South Africa.
-
-</li>
-</ul>
-<!-- -->
-<br>
-
-<li><b>Development Sources</b>
-Indian Constitution is not a static doument. It has growmn with the changing needs. Thus amendments, judicial 
-decisions, political practices, Parliamentary status, rules, regulations and ordinances are the developmental
-sources of the Constitution.
-<ul>
-    <li>
-    <div class="subheading"><strong><i>Amendments of the Constitution:</i></strong></div>
-    During the
-course of 60 years the Constitution has been amended about 94 times and a few other amendments are in the 
-pipeline. In this way, the present shape of the Constitution is quite different from the original document. 
-The 42nd Amendment made it clear that the Indian Constitution is more flexible than rigid. This Amendment is 
-often termed as 'the mini Constitution of India' due to enormous changes it
-effected to the Indian Constitution.
-    </li>
-    <li>
-    <div class="subheading"><strong><i>Judicial Decisions:</i></strong></div>
-     The judicial decisions
-given by the Supreme Court on important issues
-have added new dimensions to the Constitution. It is in the light of such decisions that
-further constitutional amendments are made in
-the Constitution. Some of the most important
-judicial decisions are:
-<ul>
-    <li>Gopalan vs. State of Madras;</li>
-    <li>State of Madras vs. Champakam;</li>
-    <li>Golak Nath vs. State of Punjab;</li>
-    <li>Keshavanand Bharti vs. Kerala State</li>
-</ul>
-
-    </li>
-    <li>
-    <div class="subheading"><strong><i>Parliamentary Statutes:</i></strong></div>
-     Parliament has also
-made various statues for furnishing details of the
-various Articles contained in the Constitution. It
-is the Constitution which itself empowers the
-Parliament to enact laws on certain Articles for
-details. These statues are considered as constitutional laws. Without their existence, a detailed
-study of the Constitution is not possible.
-    </li>
-    <li>
-    <div class="subheading"><strong><i>Commentaries of Constitutional Experts:</i></strong></div>
-    While interpreting the Constitution, the views
-of the distinguished constitutional experts,
-whether Indian or foreign, enjoy special importance. The most notable constitutional experts
-are Jennings, Gledhill, Alexandrowit, D.D. Basu,
-Palkhiwala, V.N. Shukla, etc. Their views are
-not given legal recognition but due regard is
-paid to them by the judges. Moreover, true
-significance of any provision of the Constitution
-can be understood in the light of their views.
-    </li>
-    <li>
-    <div class="subheading"><strong><i>Rules, Regulations, Ordinances, etc.:</i></strong></div>
-     Each House of the Parliament is empowered to make
-rules for its efficient working. The President has also
-got the right to make rules for fixing the constitutional subjects. President of India is also empowered to 
-make rules with respect to the condition of services of the members of the Union Public Service
-Commission. He can also frame rules to establish peace and efficient administration of the Union Territories.
-Above all, the President has also the power to issue ordinances when Parliament is not in session. All these 
-rules, regulations and ordinances serve as sources of the Constitution.
-    </li>
-    <li>
-    <div class="subheading"><strong><i>Constitutional Practices :</i></strong></div>
-    Although the Constitution of India is the most detailed in the world, still certain practices 
-    independent of the Constitution have developed in India.
-    A few examples of such a practice can be enumerated as follows.
-    <ul>
-        <li>The Central Government takes before hand the advice of the State Government in the appointment 
-            of its Governer.</li>
-        <li>Governer can be recalled by the Central Government on the advice of the State Government concerned.</li>
-        <li>Governer should not belong to the state to which he is appointed.</li>
-        <li>One of the judges of the Supreme Court must belong to the minority community.</li>
-        <li>The senior most judge of the Supreme Court should be appointed as the Chief Justice of India.</li>
-        <li>The leader of the majority party in Lok sabha is appointed as the Prime Minister.</li>
-    </ul> 
-    </li>
-</ul>
-
-</ol>
 <h3>Nature and Features Of Indian
 Constitution</h3>
 Every constitution aims to build up a governmental structure based upon certain basic

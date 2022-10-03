@@ -610,10 +610,7 @@ Yajurveda (or Shukla Yajurveda) and Black
 Yajurveda (or Krishna Yajurveda). The former
 contains mantras and the latter has commentary
 in prose.</li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+
 
     </ul>
 </ol>
@@ -630,8 +627,7 @@ problems of people).</li>
 Brahmanas and eater of people.</li>
         <li>From the point of view of Vedic rituals, Atharvaveda
 is the most important.</li>
-        <li></li>
-        <li></li>
+
     </ul>
 </ol>
  
@@ -663,8 +659,7 @@ sacrifice and emphasized meditation.</li>
 Marg) which was the sole concern of the Upanishads
 and the 'Way of Knowledge' (Gyan Marg) which
 the Brahmanas advocated.</li>
-        <li></li>
-        <li></li>
+
     </ul>
 </ol>
         
@@ -730,10 +725,9 @@ lakh verses and is divided into eighteen books with
 the Harivansa attached to it at the end.</li>
         <li>The Ramayana attributed to Valmiki has 24,000
 verses. Its composition started in the fi fth century
-B.C. and passes through fi ve stages; the fi fth stage
+B.C. and passes through fi ve stages; the fifth stage
 ending in the 12th century A.D.</li>
-        <li></li>
-        <li></li>
+
 
     </ul>
 </ol>

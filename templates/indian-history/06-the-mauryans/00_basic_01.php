@@ -339,7 +339,7 @@ and fi shermen have stopped hunting. Aramic version
 - very few animals were killed by Ashoka. Fishing
 prohibited.
 <br>
-<b>Bhabru Inscription:</br> The king of Magadha, Piyadassi shows deep respect for the faith in Buddha,
+<b>Bhabru Inscription:</b> The king of Magadha, Piyadassi shows deep respect for the faith in Buddha,
 the Dhamma and the Sangha. This edict confi rms
 Ashoka's conversion to Buddhism.
 <br>
@@ -385,7 +385,7 @@ judicial procedure and punishment. Men who are
 imprisoned or sentenced to death are to be given
 three days respite.
 <br>
-<b>5th:</b> In the 26th year, prohibition of killing specifi c
+<b>5th:</b> In the 26th year, prohibition of killing specific
 animals and burning forest; cattle and horses are
 not to be branded. Twenty fi ve releases of prisoners
 have been made.

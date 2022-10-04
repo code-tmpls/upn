@@ -9,7 +9,7 @@ Pre-Sangam Era</i></strong></div>
     <ul>
         <li>The Neolithic-Chalcolithic amalgam which seems
 to have been round about 2000 B.C. continued upto
-about the middle of the fi rst millennium B.C.</li>
+about the middle of the first millennium B.C.</li>
 <li>It was then overlapped by the Megalithic culture
 inhabited by the megaliths builder. They are known
 not from their actual settlement which is rare but
@@ -75,8 +75,8 @@ Nebuchadnezzar (604-562 B.C.), the teak logs
 found in the temple of the Moon God at Ur at levels
 belonging to about the same age or a little later, and
 the Baveru Jataka which relates the adventures of
-certain Indian merchants who took the fi rst peacock
-by sea to Babylon, all confi rm the existence of active
+certain Indian merchants who took the first peacock
+by sea to Babylon, all confirm the existence of active
 maritime intercourse between South India and its
 western neighbours.</li>
 <li>The Assyrian and Babylonian empires traded with
@@ -127,7 +127,7 @@ the Pandyas were believed, at least in subsequent
 ages, to be of immemorial antiquity, and the poems
 of the Sangam attest the anxiety of all of them to
 connect themselves with the events of the Great War
-between the Kauravas and the Pandavas. The fi rst
+between the Kauravas and the Pandavas. The first
 Chera monarch we hear of is Udiyanjeral (AD 130)
 who is said to have fed sumptuously both the armies
 of Kurukshetra, and thereby earned for himself the
@@ -237,7 +237,7 @@ generations.
 The heroes of the last three decades of the ‘Ten
 Tens’ and their ancestors must be taken to have ruled
 contemporaneously with the kings of the house of
-Udiyanjeral. The fi rst to be heard of among them
+Udiyanjeral. The first to be heard of among them
 are Anduvan and his son Selvakkadungo Vali Adan,
 both praised by the poets in general terms for their
 valour and liberality, the father is said to have been a
@@ -349,7 +349,7 @@ Adigaiman, also called Neduman Anji, the opponent of Irumporai and Lord of Tagad
 the ‘seven patrons’ and the supporter of the celebrated
 poetess Auvaiyar who has left many songs about him
 and some about his son Pogutteline. Evidently patron
-and poetess did not get on well at fi rst start, for one
+and poetess did not get on well at first start, for one
 poem gives expression to Auvaiyar’s vexation at having waited a long time for a present. Soon, however,
 a perfect understanding grew up between them, the
 poetess is all praise for the hero and his achievements
@@ -542,7 +542,7 @@ Abham collections.
 From the Maduraikkanji of Mangudi Marudan
 and elsewhere, we learn something of three of
 Nedunjeliyan’s predecessors on the Pandyan throne.
-The fi rst is an almost mythical fi gure called Nediyon
+The first is an almost mythical fi gure called Nediyon
 (‘the tall one’), whose achievements fi nd a place in
 the ‘Sacred Sports’ of Shiva at Madura and among the
 traditions of the Pandyas enumerated in the Velvikudi

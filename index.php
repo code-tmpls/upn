@@ -75,6 +75,22 @@ let technologies = [{id:"",
 								 {id:"10-later-guptas",title:"Later Guptas (7-12 Century A.D)"},
 								 {id:"11-post-gupta-period-in-south-india",title:"Post Gupta Period in South India"},
 								 {id:"12-art-and-architecture-in-ancient-india",title:"Art and Architecture in Ancient India"}]},
+								 
+								 
+								 { id:"medieval-history",
+								 title:"Medival History",
+								 syllabus:[{id:"01-india-between-750-1200",title:"India Between 750-1200 AD"},
+								 {id:"02-establishment-and-expansion",title:"Establishment and Expansion of Delhi Sultanate"},
+								 {id:"03-emergence-of-regional-states",title:"Emergence of Regional States in India"},
+								 {id:"04-religious-movements",title:"Religious Movements"},
+								 {id:"05-mughal-dynasty",title:"Mughal Dynasty"},
+								 {id:"06-administration-under-mughals",title:"Administration Under Mughals"},
+								 {id:"07-later-mughals",title:"Later Mughals"},
+								 {id:"08-the-maratha-state",title:"The Maratha State"},
+								 {id:"09-european-arrival",title:"European Arraival"} ]},
+								
+
+
 								{ id:"js",
 								 title:"Javascript",
 								 syllabus:[{id:"js_01_introduction",title:"Introduction"},

@@ -31,7 +31,7 @@ function sel_technology(index){
 function resetAllMenus(){
  document.getElementById("leftSyllabusMenu").innerHTML ='';
  document.getElementById("qaLeftColumn").innerHTML ='';
- document.getElementById("qaRightColumn").innerHTML ='';
+ // document.getElementById("qaRightColumn").innerHTML ='';
 }	
 
 function buildMainMenu(divId,selectId){
@@ -72,7 +72,7 @@ function selSubMenu(mainMenuIndex, selectId){
 	else { $('#'+syllabus[index].id).removeClass('active'); }
   }
   $("#qaLeftColumn").load("templates/"+subject[mainMenuIndex].id+'/'+selectId+"/00_basic_01.php");
-  $("#qaRightColumn").load("templates/"+subject[mainMenuIndex].id+'/'+selectId+"/00_basic_02.php");
+ // $("#qaRightColumn").load("templates/"+subject[mainMenuIndex].id+'/'+selectId+"/00_basic_02.php");
 }
 
 function buildSubMainMenu(mainMenuIndex, divId, selectId){
@@ -87,5 +87,5 @@ function buildSubMainMenu(mainMenuIndex, divId, selectId){
   document.getElementById(divId).innerHTML = content;
   console.log("templates/"+subject[mainMenuIndex].id+'/'+selectId);
   $("#qaLeftColumn").load("templates/"+subject[mainMenuIndex].id+'/'+selectId+"/00_basic_01.php");
-  $("#qaRightColumn").load("templates/"+subject[mainMenuIndex].id+'/'+selectId+"/00_basic_02.php");
+  // $("#qaRightColumn").load("templates/"+subject[mainMenuIndex].id+'/'+selectId+"/00_basic_02.php");
 }

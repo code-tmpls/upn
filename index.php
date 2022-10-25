@@ -160,6 +160,37 @@ let technologies = [{id:"",
 								 {id:"20-industries",title:"Industries"},
 								 {id:"21-energy-resources",title:"Energy Resources"},
 								 {id:"22-transport",title:"Transport"} ]},
+
+
+								 { id:"indian-geography",
+								 title:"Indian Geography",
+								 syllabus:[{id:"01-physiography-of-india",title:"Physiography of India"},
+								 {id:"02-climate-of-india",title:"Climate of India"},
+								 {id:"03-soils-of-india",title:"Soils of India"},
+								 {id:"04-natural-vegetation",title:"Natural Vegetation"},
+								 {id:"05-flora-and-fauna",title:"Flora And Fauna"},
+								 {id:"06-agriculture",title:"Agriculture"},
+								 {id:"07-irrigation",title:"Irrigation"},
+								 {id:"08-animal-husbandry-and-fisheries",title:"Animal Husbandry & Fisheries"},
+								 {id:"09-minerals",title:"Minerals"},
+								 {id:"10-industries",title:"Industries"},
+								 {id:"11-energy-resources",title:"Energy Resources"},
+								 {id:"12-transport-and-communication",title:"Transport & Communication"}   ]},
+
+
+								 { id:"world-geography",
+								 title:"World Geography",
+								 syllabus:[{id:"01-asia",title:"Asia"},
+								 {id:"02-africa",title:"Africa"},
+								 {id:"03-europe",title:"Europe"},
+								 {id:"04-australia",title:"Australia"},
+								 {id:"05-anglo-america",title:"Anglo-America"},
+								 {id:"06-south-america",title:"South America"},
+								 {id:"07-middle-america",title:"Middle America"},
+								 {id:"08-antarctica-or-terra-australis",title:"Antarctica Or Terra Australis"},
+								 {id:"09-miscellaneous",title:"Miscellaneous"},
+								 {id:"10-world-facts",title:"World Facts"}  ]},
+
 								
 															
 								{ id:"js",

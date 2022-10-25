@@ -191,6 +191,29 @@ let technologies = [{id:"",
 								 {id:"09-miscellaneous",title:"Miscellaneous"},
 								 {id:"10-world-facts",title:"World Facts"}  ]},
 
+
+								 { id:"indian-culture",
+								 title:"Indian Culture",
+								 syllabus:[{id:"01-meaning-and-essence-of-culture",title:"Meaning And Essence Of Culture"},
+								 {id:"02-prehistoric-rock-paintings",title:"Pre-historic Rock Paintings"},
+								 {id:"03-arts-of-the-indus-valley",title:"Arts Of The Indus Valley"},
+								 {id:"04-indian-architecture",title:"Indian Architecture"},
+								 {id:"05-indian-sculpture",title:"Indian Sculpture"},
+								 {id:"06-indo-islamic-architecture",title:"Indo-Islamic Architecture"},
+								 {id:"07-modern-age-architecture",title:"Modern Age Architecture"},
+								 {id:"08-indian-crafts",title:"Indian Crafts"},
+								 {id:"09-dances",title:"Dances"},
+								 {id:"10-indian-music",title:"Indian Music"},
+								 {id:"11-languages",title:"Languages"},
+								 {id:"12-indian-literature",title:"Indian Literature"},
+								 {id:"13-indian-painting",title:"Indian Paintings"},
+								 {id:"14-media",title:"Media"},
+								 {id:"15-indian-cinema",title:"Indian Cinema"} ]},
+								
+								
+								
+								
+
 								
 															
 								{ id:"js",

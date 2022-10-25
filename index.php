@@ -209,6 +209,11 @@ let technologies = [{id:"",
 								 {id:"13-indian-painting",title:"Indian Paintings"},
 								 {id:"14-media",title:"Media"},
 								 {id:"15-indian-cinema",title:"Indian Cinema"} ]},
+
+								 { id:"e-gov",
+								 title:"e-Governance",
+								 syllabus:[{id:"01-e-governance",title:"e-Governance"}  ]},
+								
 								
 								
 								

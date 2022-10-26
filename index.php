@@ -213,14 +213,16 @@ let technologies = [{id:"",
 								 { id:"e-gov",
 								 title:"e-Governance",
 								 syllabus:[{id:"01-e-governance",title:"e-Governance"}  ]},
-								
-								
-								
-								
-								
 
+
+								 { id:"science-technology-01",
+								 title:"Science And Technology",
+								 syllabus:[{id:"01-science-and-technology-in-india",title:"Science And Technology In India"}, 
+								 {id:"02-health-and-hygienc",title:"Health And Hygienc"}, 
+								 {id:"03-electronics-and-computers",title:"Electronics And Computers"}, 
+								 {id:"04-robotics-technology",title:"Robotics Technology"}  ]},
 								
-															
+											
 								{ id:"js",
 								 title:"Javascript",
 								 syllabus:[{id:"js_01_introduction",title:"Introduction"},

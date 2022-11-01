@@ -266,6 +266,26 @@ let technologies = [{id:"",
 								 {id:"08-population-of-india",title:"Population Of India"}, 
 								 {id:"09-multilateral-agencies",title:"Multilateral Agencies"}, 
 								 {id:"10-interim-union-budget-2014-2015",title:"Interim Union Budget 2014-2015"}    ]}, 
+
+								 { id:"constitution",
+								 title:"Constitution",
+								 syllabus:[{id:"01-constitutional-bodies-in-india",title:"Constitutional Bodies In India"},  
+								 {id:"02-evolution-and-philosophy",title:"Evolution And Philosophy"} , 
+								 {id:"03-post-independence-consolidation-and-recognization",title:"Post Independence Consolidation And Recognization"}  ]},
+
+								 { id:"post-independence-india",
+								 title:"Post Independence India",
+								 syllabus:[{id:"01-partition-and-integration-of-princely-states",title:"Partition And Integration Of Princely States"}, 
+								 {id:"02-making-of-the-constitution",title:"Making Of The Constitution"}, 
+								 {id:"03-the-nehru-era-1947–1964",title:"The Nehru Era 1947-1964"}, 
+								 {id:"04-lal-bahadur-shastri-1964–1966",title:"Lal Bahadur Shastri 1964-1966"}, 
+								 {id:"05-indira-gandhi-tenure-and-emergency-1969–1984",title:"Indira Gandhi Tensure And Emergency 1969-1984"}, 
+								 {id:"06-the-rajiv-gandhi’s-tenure-and-era-of-coliation-1984–1991",title:"Era Of Coliation (1984-1991)"}, 
+								 {id:"07-india-from-1991-to-1998",title:"India From 1991-1998"}, 
+								 {id:"08-a-b-vajpayee-tenure-nda-I",title:"A.B. Vajpayee Tenure (NDA-1)"}, 
+								 {id:"09-manmohan-singh-tenure",title:"Manmohan Singh Tenure (UPA 1&2)"}, 
+								 {id:"10-economy-and-foreign-policy",title:"Economy And Foreign Policy"},   
+								 {id:"11-time-line",title:"Time Line Since 1947"}  ]},
 								
 								
 											
